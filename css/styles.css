@@ -51,11 +51,9 @@ html, body {
     background-color: grey;
     color: white;
 }
-
 .centro {
     display: flex;
-    flex-direction: column;
-    
+    flex-direction: column;   
 }
 .vacio3 {
     height: 14em;
@@ -79,21 +77,21 @@ html, body {
  .lupa {
     align-self: center;
     margin-left: 1em;
-  }
+ }
 
 .microfono {
     align-self: center;
     margin-right: 1em;   
-  }
+ }
 
 .vacio4 {
-      height: 1.5em;
-  }
+    height: 1.5em;
+}
 
  .botones {
-      display: flex;
-      align-self: center;
-      height: 4em;
+    display: flex;
+    align-self: center;
+    height: 4em;
  }
  .buscarcon {
     width: 10em;
